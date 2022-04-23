@@ -8,10 +8,11 @@
       "url": "https://registry.npmjs.com"
     },
     "asim.unity.helpers": {
-      "version": "file:asim.unity.helpers",
+      "version": "0.3.0",
       "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://registry.npmjs.com"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
